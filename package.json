@@ -1,0 +1,13 @@
+{
+  "name": "@backlight-dev/top-dream-memj9.blank-lewurd2g",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve 5htyCClCrYDvK1U9NB81 --open"
+  },
+  "devDependencies": {},
+  "dependencies": {}
+}
